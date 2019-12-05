@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d83a6554-1154-4998-a013-93650698ba0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/migrations/0002_auto_20191030_0232.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/migrations/0003_auto_20191101_0030.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/contactus/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/contact/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/project/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/project/migrations/0002_auto_20191026_0454.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/project/migrations/0003_auto_20191026_0610.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/project/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/social/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/social/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/social/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/training/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/training/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/users/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/users/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lakhidaApp/app/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lakhidaApp/app/users/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lakhidaApp" />
+  </component>
+  <component name="ProjectId" id="1TOKPqNQZ3iTsrYBmC67XhzS0m5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lakhidaweb" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d83a6554-1154-4998-a013-93650698ba0a" name="Default Changelist" comment="" />
+      <created>1573325681015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573325681015</updated>
+      <workItem from="1573325683912" duration="12156000" />
+      <workItem from="1573480068033" duration="126000" />
+      <workItem from="1573654599422" duration="26880000" />
+      <workItem from="1573931903958" duration="11991000" />
+      <workItem from="1574037633359" duration="75933000" />
+      <workItem from="1575313140311" duration="32996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
